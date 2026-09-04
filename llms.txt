@@ -15,21 +15,21 @@
 - Toate intervențiile (histeroscopie, biopsie de endometru, puncție ovariană, embriotransfer, testarea trompelor, montare de sterilet) se efectuează la București. La Buzău: consultații, monitorizarea sarcinii, ecografii.
 
 ## Servicii (fiecare are pagină dedicată cu FAQ)
-- [Consult de infertilitate](https://www.dr-iovu.ro/consult-infertilitate.html): evaluarea completă a cuplului — rezervă ovariană (AMH), ecografie transvaginală, permeabilitate tubară, spermogramă partener, teste hormonale. Consult recomandat după 12 luni de încercări (sub 35 ani), 6 luni (35–40 ani), imediat peste 40 ani.
-- [Testarea trompelor](https://www.dr-iovu.ro/testarea-trompelor.html): evaluarea permeabilității tubare prin histerosalpingografie (HSG) sau sonohisterografie; laparoscopia ca investigație de referință.
-- [Biopsie de endometru](https://www.dr-iovu.ro/biopsie-endometru.html): prelevare de mostră din endometru, de regulă în cadrul histeroscopiei, pentru diagnosticul endometritei cronice (examen histopatologic, imunohistochimie CD56 / CD138 / MUM1).
-- [Histeroscopie](https://www.dr-iovu.ro/histeroscopie.html): vizualizarea directă a cavității uterine; diagnostică (± biopsie) sau operatorie (polipi, fibroame submucoase, aderențe). De obicei ambulatorie.
-- [Monitorizarea sarcinii](https://www.dr-iovu.ro/monitorizare-sarcina.html): confirmare la săpt. 5–6; ecografie trimestrul I cu translucență nucală (săpt. 11–14); morfologie trimestrul II (săpt. 20–22); ecografie trimestrul III (săpt. 32–33); monitorizare adaptată pentru sarcinile obținute prin FIV.
-- [Screening HPV & Babeș-Papanicolau](https://www.dr-iovu.ro/screening-hpv.html): citologie cervicală, testare/genotipare HPV, consiliere privind vaccinarea anti-HPV.
+- [Consult de infertilitate](https://drcristinaiovu.ro/consult-infertilitate.html): evaluarea completă a cuplului — rezervă ovariană (AMH), ecografie transvaginală, permeabilitate tubară, spermogramă partener, teste hormonale. Consult recomandat după 12 luni de încercări (sub 35 ani), 6 luni (35–40 ani), imediat peste 40 ani.
+- [Testarea trompelor](https://drcristinaiovu.ro/testarea-trompelor.html): evaluarea permeabilității tubare prin histerosalpingografie (HSG) sau sonohisterografie; laparoscopia ca investigație de referință.
+- [Biopsie de endometru](https://drcristinaiovu.ro/biopsie-endometru.html): prelevare de mostră din endometru, de regulă în cadrul histeroscopiei, pentru diagnosticul endometritei cronice (examen histopatologic, imunohistochimie CD56 / CD138 / MUM1).
+- [Histeroscopie](https://drcristinaiovu.ro/histeroscopie.html): vizualizarea directă a cavității uterine; diagnostică (± biopsie) sau operatorie (polipi, fibroame submucoase, aderențe). De obicei ambulatorie.
+- [Monitorizarea sarcinii](https://drcristinaiovu.ro/monitorizare-sarcina.html): confirmare la săpt. 5–6; ecografie trimestrul I cu translucență nucală (săpt. 11–14); morfologie trimestrul II (săpt. 20–22); ecografie trimestrul III (săpt. 32–33); monitorizare adaptată pentru sarcinile obținute prin FIV.
+- [Screening HPV & Babeș-Papanicolau](https://drcristinaiovu.ro/screening-hpv.html): citologie cervicală, testare/genotipare HPV, consiliere privind vaccinarea anti-HPV.
 
 ## Despre FIV
 Dr. Cristina Iovu asigură evaluarea, pregătirea și monitorizarea parcursului de fertilizare in vitro; procedurile de laborator (puncție ovariană, fertilizare, transfer embrionar) se desfășoară la Clinica Embryos București, în cadrul echipei de embriologie.
 
 ## Alte pagini
-- [Acasă](https://www.dr-iovu.ro/)
-- [Despre mine](https://www.dr-iovu.ro/despre-mine.html): parcurs profesional, formare, filosofie de îngrijire
-- [Cabinet București](https://www.dr-iovu.ro/bucuresti.html)
-- [Cabinet Buzău](https://www.dr-iovu.ro/buzau.html)
+- [Acasă](https://drcristinaiovu.ro/)
+- [Despre mine](https://drcristinaiovu.ro/despre-mine.html): parcurs profesional, formare, filosofie de îngrijire
+- [Cabinet București](https://drcristinaiovu.ro/bucuresti.html)
+- [Cabinet Buzău](https://drcristinaiovu.ro/buzau.html)
 
 ## Profiluri sociale (aceeași entitate)
 - Instagram: https://www.instagram.com/dr.cristina.iovu
@@ -37,4 +37,4 @@ Dr. Cristina Iovu asigură evaluarea, pregătirea și monitorizarea parcursului 
 - Facebook: https://www.facebook.com/people/Dr-Cristina-Iovu/61588224838133/
 
 ## Date structurate
-Toate paginile includ JSON-LD (Physician cu @id https://www.dr-iovu.ro/#physician, MedicalWebPage, MedicalClinic, FAQPage, BreadcrumbList). Sitemap: https://www.dr-iovu.ro/sitemap.xml
+Toate paginile includ JSON-LD (Physician cu @id https://drcristinaiovu.ro/#physician, MedicalWebPage, MedicalClinic, FAQPage, BreadcrumbList). Sitemap: https://drcristinaiovu.ro/sitemap.xml
