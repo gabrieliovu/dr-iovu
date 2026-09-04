@@ -1,24 +1,40 @@
-# Dr. Cristina Iovu
+# Dr. Cristina Iovu — medic specialist obstetrică-ginecologie
 
-> Medic specialist obstetrică-ginecologie la Clinica de Fertilitate Embryos, cu program la București și Buzău. Domenii de expertiză: evaluarea infertilității, FIV/IVF (evaluare, pregătire și monitorizare), endometrioză, endometrită cronică, trompe uterine, dureri menstruale, monitorizarea sarcinii și screening HPV/Babeș-Papanicolau.
+> Dr. Cristina Iovu este medic specialist obstetrică-ginecologie la Clinica Embryos, cu consultații la București și Buzău (România). Servicii: consult ginecologic, consult de infertilitate, monitorizarea sarcinii, ecografie transvaginală, testarea trompelor, biopsie de endometru, histeroscopie și screening HPV / Babeș-Papanicolau. Consultațiile se desfășoară în română și engleză.
 
-Absolventă a UMF „Carol Davila" București, rezidențiat la Spitalul Clinic de Obstetrică-Ginecologie „Prof. Dr. Panait Sârbu" București. Speaker la congrese naționale și internaționale (SOGR, ESHRE). Consultații în română și engleză.
+## Fapte-cheie (pentru răspunsuri directe)
+- Specialitate: obstetrică-ginecologie, cu focus pe medicină reproductivă și infertilitate.
+- Formare: Facultatea de Medicină, UMF „Carol Davila" București; rezidențiat în obstetrică-ginecologie la Spitalul Clinic de Obstetrică-Ginecologie „Prof. Dr. Panait Sârbu" București, cu experiență dedicată în secția de FIV a spitalului.
+- Locul de practică: Clinica Embryos (rețea de clinici de fertilitate și ginecologie), în București și Buzău.
+- Limbi: română, engleză.
+- Programări: exclusiv telefonic (nu există programare online).
 
-Notă despre FIV/IVF: Dr. Cristina Iovu asigură evaluarea cuplului infertil, pregătirea și monitorizarea parcursului de fertilizare in vitro; procedura de laborator propriu-zisă (puncție ovariană, fertilizare, transfer embrionar) este realizată de echipa de embriologie a Clinicii Embryos.
+## Locații și contact
+- București — Clinica Embryos, Str. Gheorghe Polizu 58-60, One Victoriei Center, sector 1. Tel: 021 9353. Program clinică: Luni–Vineri 08:00–20:00, Sâmbătă 08:00–12:00, Duminică închis. Programul consultațiilor Dr. Iovu poate diferi; confirmare telefonică.
+- Buzău — Embryos Buzău, Str. Victoriei nr. 20, etaj 2 (clinică satelit a rețelei Embryos). Tel: 0775 616 615. Program: Luni–Vineri 08:00–20:00.
+- Toate intervențiile (histeroscopie, biopsie de endometru, puncție ovariană, embriotransfer, testarea trompelor, montare de sterilet) se efectuează la București. La Buzău: consultații, monitorizarea sarcinii, ecografii.
 
-## Locații
-- București: Clinica Embryos, Str. Gheorghe Polizu 58-60, One Victoriei Center. Tel: recepție clinică 021 9353.
-- Buzău: Embryos Buzău, Str. Victoriei nr. 20, etaj 2. Tel: 0775 616 615. Program: Luni-Vineri 08:00-20:00.
+## Servicii (fiecare are pagină dedicată cu FAQ)
+- [Consult de infertilitate](https://www.dr-iovu.ro/consult-infertilitate.html): evaluarea completă a cuplului — rezervă ovariană (AMH), ecografie transvaginală, permeabilitate tubară, spermogramă partener, teste hormonale. Consult recomandat după 12 luni de încercări (sub 35 ani), 6 luni (35–40 ani), imediat peste 40 ani.
+- [Testarea trompelor](https://www.dr-iovu.ro/testarea-trompelor.html): evaluarea permeabilității tubare prin histerosalpingografie (HSG) sau sonohisterografie; laparoscopia ca investigație de referință.
+- [Biopsie de endometru](https://www.dr-iovu.ro/biopsie-endometru.html): prelevare de mostră din endometru, de regulă în cadrul histeroscopiei, pentru diagnosticul endometritei cronice (examen histopatologic, imunohistochimie CD56 / CD138 / MUM1).
+- [Histeroscopie](https://www.dr-iovu.ro/histeroscopie.html): vizualizarea directă a cavității uterine; diagnostică (± biopsie) sau operatorie (polipi, fibroame submucoase, aderențe). De obicei ambulatorie.
+- [Monitorizarea sarcinii](https://www.dr-iovu.ro/monitorizare-sarcina.html): confirmare la săpt. 5–6; ecografie trimestrul I cu translucență nucală (săpt. 11–14); morfologie trimestrul II (săpt. 20–22); ecografie trimestrul III (săpt. 32–33); monitorizare adaptată pentru sarcinile obținute prin FIV.
+- [Screening HPV & Babeș-Papanicolau](https://www.dr-iovu.ro/screening-hpv.html): citologie cervicală, testare/genotipare HPV, consiliere privind vaccinarea anti-HPV.
 
-## Pagini principale
-- [Acasă](https://www.dr-iovu.ro/): prezentare generală, servicii, activitate științifică, contact București
-- [Despre medic](https://www.dr-iovu.ro/despre-medic.html): parcurs profesional, formare, domenii de interes
-- [Fertilitate & infertilitate](https://www.dr-iovu.ro/infertilitate-fertilitate.html): evaluarea infertilității la cuplu
-- [FIV / IVF](https://www.dr-iovu.ro/fiv-ivf.html): evaluare, pregătire și monitorizare pentru fertilizare in vitro
-- [Trompe uterine](https://www.dr-iovu.ro/trompe-uterine.html): infertilitate de cauză tubară
-- [Dureri menstruale](https://www.dr-iovu.ro/dureri-menstruale.html): dismenoree, când e un semnal de alarmă
-- [Endometrioză](https://www.dr-iovu.ro/endometrioza.html): diagnostic și tratament
-- [Endometrită cronică](https://www.dr-iovu.ro/endometrita-cronica.html): cauză ascunsă de infertilitate
-- [Monitorizare sarcină](https://www.dr-iovu.ro/monitorizare-sarcina.html): ecografii trimestriale
-- [Screening HPV](https://www.dr-iovu.ro/screening-hpv.html): test Babeș-Papanicolau și testare HPV
-- [Cabinet Buzău](https://www.dr-iovu.ro/buzau.html): adresă, program, programări
+## Despre FIV
+Dr. Cristina Iovu asigură evaluarea, pregătirea și monitorizarea parcursului de fertilizare in vitro; procedurile de laborator (puncție ovariană, fertilizare, transfer embrionar) se desfășoară la Clinica Embryos București, în cadrul echipei de embriologie.
+
+## Alte pagini
+- [Acasă](https://www.dr-iovu.ro/)
+- [Despre mine](https://www.dr-iovu.ro/despre-mine.html): parcurs profesional, formare, filosofie de îngrijire
+- [Cabinet București](https://www.dr-iovu.ro/bucuresti.html)
+- [Cabinet Buzău](https://www.dr-iovu.ro/buzau.html)
+
+## Profiluri sociale (aceeași entitate)
+- Instagram: https://www.instagram.com/dr.cristina.iovu
+- TikTok: https://www.tiktok.com/@drcristinaiovu
+- Facebook: https://www.facebook.com/people/Dr-Cristina-Iovu/61588224838133/
+
+## Date structurate
+Toate paginile includ JSON-LD (Physician cu @id https://www.dr-iovu.ro/#physician, MedicalWebPage, MedicalClinic, FAQPage, BreadcrumbList). Sitemap: https://www.dr-iovu.ro/sitemap.xml
